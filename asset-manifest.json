@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sana/static/css/main.b6fdb520.css",
+    "main.js": "/sana/static/js/main.bd92f861.js",
+    "static/js/453.c937a3a2.chunk.js": "/sana/static/js/453.c937a3a2.chunk.js",
+    "static/media/background2.jpg": "/sana/static/media/background2.3e7dcc14890591fa365d.jpg",
+    "static/media/background.jpg": "/sana/static/media/background.2775639bc857c4b711a5.jpg",
+    "static/media/background3.jpg": "/sana/static/media/background3.825190cd9083679b7d8a.jpg",
+    "static/media/background5.jpg": "/sana/static/media/background5.6fc8f8eefd14e3f8bb26.jpg",
+    "static/media/blog2.png": "/sana/static/media/blog2.3fed106138c7c8398633.png",
+    "static/media/blog1.png": "/sana/static/media/blog1.dead64c80119d69177b2.png",
+    "static/media/background6.jpg": "/sana/static/media/background6.164d88d54f98ad790262.jpg",
+    "static/media/background4.jpg": "/sana/static/media/background4.fba3e9c566bf6aa4f180.jpg",
+    "static/media/profilepicture.jpg": "/sana/static/media/profilepicture.71442128a52807dac8be.jpg",
+    "static/media/Seo.png": "/sana/static/media/Seo.a53e90f6fa7ed751bf89.png",
+    "static/media/feedback4.jpg": "/sana/static/media/feedback4.e22232f4784a3474e7d3.jpg",
+    "static/media/feedback5.jpg": "/sana/static/media/feedback5.d799a9484dcf9ef2d699.jpg",
+    "static/media/feedback7.jpg": "/sana/static/media/feedback7.7eee496012429741c60f.jpg",
+    "static/media/feedback1.jpg": "/sana/static/media/feedback1.66f4e3cad9961e56161d.jpg",
+    "static/media/feedback2.jpg": "/sana/static/media/feedback2.8fee470517532a6efbfa.jpg",
+    "static/media/feedback6.jpg": "/sana/static/media/feedback6.a0385412afe64e7851ef.jpg",
+    "static/media/feedback8.jpg": "/sana/static/media/feedback8.840eaf0a47ff44f93c79.jpg",
+    "static/media/feedback3.jpg": "/sana/static/media/feedback3.18404a517f820bc0d077.jpg",
+    "static/media/feedback9.jpg": "/sana/static/media/feedback9.1e5714c710f1b709a0e4.jpg",
+    "static/media/facebook.png": "/sana/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/whatsapp.svg": "/sana/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "index.html": "/sana/index.html",
+    "static/media/fiverr.svg": "/sana/static/media/fiverr.e7902bddb43fdc0aa934aaee7e35b8c7.svg",
+    "static/media/skype.svg": "/sana/static/media/skype.28f45b0e7baccddabd06a0504e20df14.svg",
+    "static/media/gmail.svg": "/sana/static/media/gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
+    "static/media/linkedin.svg": "/sana/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
+    "main.b6fdb520.css.map": "/sana/static/css/main.b6fdb520.css.map",
+    "main.bd92f861.js.map": "/sana/static/js/main.bd92f861.js.map",
+    "453.c937a3a2.chunk.js.map": "/sana/static/js/453.c937a3a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fdb520.css",
+    "static/js/main.bd92f861.js"
+  ]
+}
