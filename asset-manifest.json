@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sana/static/css/main.b6fdb520.css",
-    "main.js": "/sana/static/js/main.bd92f861.js",
+    "main.js": "/sana/static/js/main.a5c7d5d9.js",
     "static/js/453.c937a3a2.chunk.js": "/sana/static/js/453.c937a3a2.chunk.js",
     "static/media/background2.jpg": "/sana/static/media/background2.3e7dcc14890591fa365d.jpg",
     "static/media/background.jpg": "/sana/static/media/background.2775639bc857c4b711a5.jpg",
@@ -30,11 +30,11 @@
     "static/media/gmail.svg": "/sana/static/media/gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
     "static/media/linkedin.svg": "/sana/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "main.b6fdb520.css.map": "/sana/static/css/main.b6fdb520.css.map",
-    "main.bd92f861.js.map": "/sana/static/js/main.bd92f861.js.map",
+    "main.a5c7d5d9.js.map": "/sana/static/js/main.a5c7d5d9.js.map",
     "453.c937a3a2.chunk.js.map": "/sana/static/js/453.c937a3a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6fdb520.css",
-    "static/js/main.bd92f861.js"
+    "static/js/main.a5c7d5d9.js"
   ]
 }
